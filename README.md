@@ -1,6 +1,6 @@
 <p align="center">
 
-![](src/0x7D.gif))
+![](src/0x7D.gif)
 
 
 > ...
